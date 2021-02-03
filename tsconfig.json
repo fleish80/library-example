@@ -16,12 +16,29 @@
       "dom"
     ],
     "paths": {
-      "lib-main": [
-        "dist/lib-main/lib-main",
+      //      "lib-main": [
+      //        "dist/lib-main/lib-main",
+      //        "dist/lib-main"
+      //      ],
+      //      "lib-child": [
+      //        "dist/lib-child/lib-child",
+      //        "dist/lib-child"
+      //      ],
+
+      "@demanor/lib-main/*": [
+        "projects/lib-main/*",
+        "projects/lib-main"
+      ],
+      "@demanor/lib-main": [
+        "dist/lib-main/*",
         "dist/lib-main"
       ],
-      "lib-child": [
-        "dist/lib-child/lib-child",
+      "@demanor/lib-child/*": [
+        "projects/lib-child/*",
+        "projects/lib-child"
+      ],
+      "@demanor/lib-child": [
+        "dist/lib-child/*",
         "dist/lib-child"
       ]
     }

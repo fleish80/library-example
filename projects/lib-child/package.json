@@ -1,5 +1,5 @@
 {
-  "name": "lib-child",
+  "name": "@demanor/lib-child",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^11.0.9",

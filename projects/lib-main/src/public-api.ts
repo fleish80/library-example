@@ -2,4 +2,4 @@
  * Public API Surface of lib-main
  */
 
-export * from './lib/main-page';
+export * from '@demanor/lib-main/src/lib/main-page';
