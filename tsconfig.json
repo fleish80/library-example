@@ -17,10 +17,10 @@
     ],
     "paths": {
       "@demanor/lib-main/*": [
-        "projects/lib-main/*",
+        "projects/lib-main/src/lib/*",
       ],
       "@demanor/lib-child/*": [
-        "projects/lib-child/*",
+        "projects/lib-child/src/lib/*",
       ],
     }
   }
