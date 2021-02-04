@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { MainFeatComponent } from './main-feat/main-feat.component';
-import {ChildFeatModule} from '../child-feat/child-feat.module';
+import {ChildFeatModule} from '@demanor/lib-child/src/lib/child-feat';
 
 @NgModule({
   declarations: [MainFeatComponent],

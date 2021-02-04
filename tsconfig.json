@@ -29,18 +29,18 @@
         "projects/lib-main/*",
         "projects/lib-main"
       ],
-      "@demanor/lib-main": [
-        "dist/lib-main/*",
-        "dist/lib-main"
-      ],
+//      "@demanor/lib-main/*": [
+//        "dist/lib-main/*",
+//        "dist/lib-main"
+//      ],
       "@demanor/lib-child/*": [
         "projects/lib-child/*",
         "projects/lib-child"
       ],
-      "@demanor/lib-child": [
-        "dist/lib-child/*",
-        "dist/lib-child"
-      ]
+//      "@demanor/lib-child/*": [
+//        "dist/lib-child/*",
+//        "dist/lib-child"
+//      ]
     }
   }
 }
