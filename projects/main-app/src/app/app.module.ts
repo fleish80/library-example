@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import {MainPageModule} from '@demanor/lib-main/src/lib/main-page';
+import {MainPageModule} from '@demanor/lib-main/main-page';
 
 @NgModule({
   declarations: [
