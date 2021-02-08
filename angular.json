@@ -6,7 +6,7 @@
     "lib-main": {
       "projectType": "library",
       "root": "projects/lib-main",
-      "sourceRoot": "projects/lib-main/src",
+      "sourceRoot": "projects/lib-main",
       "prefix": "dm",
       "architect": {
         "build": {
@@ -46,7 +46,7 @@
     "lib-child": {
       "projectType": "library",
       "root": "projects/lib-child",
-      "sourceRoot": "projects/lib-child/src",
+      "sourceRoot": "projects/lib-child",
       "prefix": "dm",
       "architect": {
         "build": {
